@@ -9,8 +9,7 @@ int execlp(const char *file, const char *arg, ...);
 - file: path to the executable file
 - arg[0]: executable program name
 - arg[#]: arguments for the executable program
-`
-`
+--
 - runs the executable file specified in the second parameter using the arguments given by the following parameters
 - note: the last argument must always be NULL
 
