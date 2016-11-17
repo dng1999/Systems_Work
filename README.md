@@ -23,8 +23,9 @@ int execvp(const char *file, char *const argv[]);
 - runs executable files
 - NULL must be the last argument
 - replaces the current process with the process given by the arguments
+
 ```
 printf("PID: %d",getpid());
 execlp("emacs","emacs","main.c","-nw",NULL);
 ```
-If you look at the PID for emacs main.c -nw, it will be the same PID as what your c program printed out.
+- If you look at the PID for emacs main.c -nw, it will be the same PID as what your c program printed out.
