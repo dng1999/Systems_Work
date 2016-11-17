@@ -2,13 +2,12 @@
 
 Tech News: [The Web-Shaking Mirai Botnet Is Splintering—But Also Evolving](https://www.wired.com/2016/11/web-shaking-mirai-botnet-splintering-also-evolving/)
 
-###execlp() - <unistd.h>
+###execlp() - unistd.h
 ```
-f = fork();
-if (f==0){
-  //child stuff
-}
-else {
-  //parent stuff
-}
+int execlp(const char *file, const char *arg, ...);
+```
+
+###execvp() - unistd.h
+```
+int execvp(const char *file, char *const argv[]);
 ```
