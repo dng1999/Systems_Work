@@ -6,6 +6,9 @@ Tech News: [The Web-Shaking Mirai Botnet Is Splintering—But Also Evolving](htt
 ```
 int execlp(const char *file, const char *arg, ...);
 ```
+const char \*file - path to the executable file
+const char \*arg[0] - name of executable program to be run
+const char \*arg[#] - arguments for the executable program
 
 ###execvp() - unistd.h
 ```
