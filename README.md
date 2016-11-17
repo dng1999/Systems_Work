@@ -1,3 +1,3 @@
-## Tuesday, 11/15: Wait for it... by Ruochong Wu
+## Wednesday, 11/16: Time to make an executive decision by Dorothy Ng
 
-Tech News: [Facebook Employees Form Fake News Taskforce](http://www.usatoday.com/story/tech/news/2016/11/14/facebook-employees-form-fake-news-task-force/93831620/)
+Tech News: [The Web-Shaking Mirai Botnet Is Splintering—But Also Evolving](https://www.wired.com/2016/11/web-shaking-mirai-botnet-splintering-also-evolving/)
